@@ -1,0 +1,20 @@
+
+
+-----------------------------------------------------------------------------------
+NOTES:
+-----------------------------------------------------------------------------------
+
+6/25/2014 Additions by gold_finger:
+
+HARDWARE PAGE
+	*	Added instructions for dual-monitor setup
+
+SOFTWARE PAGE
+	*	Added link to newly created "Software Tutorials" page
+
+SOFTWARE TUTORIALS PAGE
+	*	New page addition to manual for various software tutorials (to be added over time).
+	*	New tutorial for installing and using KeePassX.
+	*	New tutorial for installing and using Plank Dock, various themes and on-dock theme chooser.
+	*	Install script for plank, (if it gets added to 'lite-software' script), incorporates
+		modified version of 'plank-themer' from https://github.com/rhoconlinux/plank-themer.
